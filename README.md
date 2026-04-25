@@ -32,8 +32,8 @@
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dzgransil-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/alok-chandra108/)
-[![GitHub](https://img.shields.io/badge/GitHub-dzgransil-181717?style=flat&logo=github)](https://github.com/Alok-Chandra108/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AlokChandra-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/alok-chandra108/)
+[![GitHub](https://img.shields.io/badge/GitHub-AlokChandra-181717?style=flat&logo=github)](https://github.com/Alok-Chandra108/)
 
 ---
 
