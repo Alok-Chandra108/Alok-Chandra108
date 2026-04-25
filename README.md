@@ -1,40 +1,52 @@
+<div align="center">
+
 # Hi, I'm Alok Chandra 👋
 
-> Building on the cloud. Shipping full-stack products. Automating everything in between.
+**Cloud engineer · Full-stack builder · DevOps tinkerer**
+*Automating the boring, building the interesting.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alok--chandra108-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alok-chandra108/)
+[![GitHub](https://img.shields.io/badge/GitHub-Alok--Chandra108-181717?style=flat-square&logo=github)](https://github.com/Alok-Chandra108/)
+![Open to Work](https://img.shields.io/badge/status-open%20to%20work-22c55e?style=flat-square)
+
+</div>
 
 ---
 
-## 🧰 Stack
+## ☁️ Cloud — AWS Infrastructure
+
+`EC2` `S3` `Lambda` `RDS` `CloudFront` `IAM` `VPC`
+
+## ⚙️ DevOps — Automation & IaC
+
+`Docker` `Kubernetes` `Terraform` `GitHub Actions` `CI/CD`
+
+## 🌐 Full Stack — Web Products
+
+`React` `Next.js` `Node.js` `MongoDB` `REST APIs`
+
+---
+
+## 🧰 Full Stack
 
 `AWS` `Terraform` `Docker` `Kubernetes` `Node.js` `React` `Next.js` `MongoDB` `CI/CD`
 
 ---
 
-## 📊 Focus Areas
-
-| Area | Tools |
-|---|---|
-| ☁️ Cloud | AWS (EC2, S3, Lambda, RDS, CloudFront) |
-| ⚙️ DevOps | Docker, Kubernetes, GitHub Actions, Terraform |
-| 🌐 Full Stack | React, Next.js, Node.js, REST APIs, MongoDB |
-
----
-
 ## ⚡ Interests
 
-- ☁️ Cloud architecture & serverless
-- 🏗️ Infrastructure as Code
-- 📦 Containerization & orchestration
-- 🔁 CI/CD pipelines & automation
-- 🎮 Games · Anime · Movies n Series
+| # | Topic |
+|---|---|
+| 01 | ☁️ Cloud architecture & serverless |
+| 02 | 🏗️ Infrastructure as Code |
+| 03 | 📦 Containerisation & orchestration |
+| 04 | 🔁 CI/CD pipelines & automation |
+| 05 | 🎮 Games · Anime · Movies & Series |
 
 ---
 
-## 📫 Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AlokChandra-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/alok-chandra108/)
-[![GitHub](https://img.shields.io/badge/GitHub-AlokChandra-181717?style=flat&logo=github)](https://github.com/Alok-Chandra108/)
+> *"Ship often. Automate early. Build things that scale."*
 
 ---
 
-*Open to cloud, DevOps, and full-stack roles. Always building.*
+*Open to cloud, DevOps & full-stack roles. Always building.*
