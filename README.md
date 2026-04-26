@@ -85,13 +85,11 @@ $ ./alok --describe  →  Cloud engineer · Full-stack builder · DevOps tinkere
 ---
 
 <div align="center">
+![Interests](https://raw.githubusercontent.com/Alok-Chandra108/Alok-Chandra108/main/interests.svg)
 
-![Interests](https://raw.githubusercontent.com/Alok-Chandra108/Alok-Chandra108/main/assets/interests.svg)
+![Philosophy](https://raw.githubusercontent.com/Alok-Chandra108/Alok-Chandra108/main/philosophy.svg)
 
-![Philosophy](https://raw.githubusercontent.com/Alok-Chandra108/Alok-Chandra108/main/assets/philosophy.svg)
-
-![Connect](https://raw.githubusercontent.com/Alok-Chandra108/Alok-Chandra108/main/assets/connect.svg)
-
+![Connect](https://raw.githubusercontent.com/Alok-Chandra108/Alok-Chandra108/main/connect.svg)
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:3b82f6,100:f59e0b&height=80&section=footer&animation=fadeIn)
