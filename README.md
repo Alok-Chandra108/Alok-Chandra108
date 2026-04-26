@@ -1,82 +1,65 @@
-<!--
-  GitHub strips most CSS & <style> tags.
-  This README uses SVG-based layout for the bento grid
-  since GitHub renders inline SVGs in READMEs.
-  Paste the content below as your entire README.md
--->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:3b82f6,100:22c55e&height=120&section=header&text=Alok%20Chandra&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn)
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:3b82f6,100:22c55e&height=120&section=header&text=Alok%20Chandra&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn)
+```bash
+$ ./alok --describe  →  Cloud engineer · Full-stack builder · DevOps tinkerer
+```
 
 </div>
 
 ---
 
-<table width="100%">
-<tr>
-<td width="65%" valign="top">
+<div align="center">
 
-### whoami
+| ☁️ Primary Cloud | 🐳 Orchestration | ⚡ IaC | 🌐 Engineering |
+|:---:|:---:|:---:|:---:|
+| **AWS** | **Kubernetes** | **Terraform** | **Full Stack** |
 
-**Cloud engineer · Full-stack builder · DevOps tinkerer**
-
-> Automating the boring, building the interesting.
-
-`AWS` `Terraform` `Docker` `Kubernetes`
-`Node.js` `React` `Next.js` `MongoDB` `CI/CD`
-
-</td>
-<td width="35%" valign="top">
-
-### status
-
-🟢 &nbsp;**Open to work**
-
-Looking for cloud, DevOps
-& full-stack roles.
-
-📍 India
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<table width="100%">
+## 🎯 Focus Areas
+
+<table>
 <tr>
 <td width="33%" valign="top">
 
-#### ☁️ Cloud
-
+### ☁️ Cloud
 **AWS Infrastructure**
 
-`EC2` `S3` `Lambda`
-`RDS` `CloudFront`
-`IAM` `VPC`
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 </td>
 <td width="33%" valign="top">
 
-#### ⚙️ DevOps
-
+### ⚙️ DevOps
 **Automation & IaC**
 
-`Docker` `Kubernetes`
-`Terraform`
-`GitHub Actions` `CI/CD`
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-F05032?style=flat-square&logo=git&logoColor=white)
 
 </td>
 <td width="33%" valign="top">
 
-#### 🌐 Full Stack
-
+### 🌐 Full Stack
 **Web Products**
 
-`React` `Next.js`
-`Node.js` `MongoDB`
-`REST APIs`
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </td>
 </tr>
@@ -84,7 +67,24 @@ Looking for cloud, DevOps
 
 ---
 
-### ⚡ Interests
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Alok-Chandra108&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f59e0b&icon_color=3b82f6&text_color=94a3b8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alok-Chandra108&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f59e0b&text_color=94a3b8" />
+
+</div>
+
+<div align="center">
+
+![Streak](https://streak-stats.demolab.com?user=Alok-Chandra108&theme=github-dark-blue&hide_border=true&background=0d1117&ring=f59e0b&fire=3b82f6&currStreakLabel=22c55e)
+
+</div>
+
+---
+
+## ⚡ Interests
 
 | # | |
 |---|---|
@@ -93,20 +93,19 @@ Looking for cloud, DevOps
 | 03 | 📦 Containerisation & orchestration |
 | 04 | 🔁 CI/CD pipelines & automation |
 | 05 | 🎮 Games · Anime · Movies & Series |
-
----
-
-### 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alok--chandra108-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-chandra108/)
-[![GitHub](https://img.shields.io/badge/GitHub-Alok--Chandra108-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alok-Chandra108/)
+| 06 | 🌐 Serverless & edge compute |
 
 ---
 
 <div align="center">
 
-*"Ship often. Automate early. Build things that scale."*
+> *"Ship often. Automate early. Build things that scale."*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:3b82f6,100:f59e0b&height=80&section=footer&animation=fadeIn)
+**Open to cloud, DevOps & full-stack roles · Always building**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alok--chandra108-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-chandra108/)
+[![GitHub](https://img.shields.io/badge/GitHub-Alok--Chandra108-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alok-Chandra108/)
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:3b82f6,100:f59e0b&height=80&section=footer&animation=fadeIn)
