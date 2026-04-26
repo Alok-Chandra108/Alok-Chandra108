@@ -84,12 +84,28 @@ $ ./alok --describe  →  Cloud engineer · Full-stack builder · DevOps tinkere
 
 ---
 
+## ⚡ Interests
+
+| # | |
+|---|---|
+| 01 | ☁️ Cloud infrastructure & services |
+| 02 | 📊 Data engineering & analytics |
+| 03 | 📦 Containerisation & orchestration |
+| 04 | 🔁 CI/CD pipelines & automation |
+| 05 | 🎮 Games · Anime · Movies & Series |
+| 06 | 🌐 Serverless & edge compute |
+
+---
+
 <div align="center">
-![Interests](https://raw.githubusercontent.com/Alok-Chandra108/Alok-Chandra108/main/interests.svg)
 
-![Philosophy](https://raw.githubusercontent.com/Alok-Chandra108/Alok-Chandra108/main/philosophy.svg)
+> *"Ship often. Automate early. Build things that scale."*
 
-![Connect](https://raw.githubusercontent.com/Alok-Chandra108/Alok-Chandra108/main/connect.svg)
+**Open to cloud, DevOps & full-stack roles · Always building**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alok--chandra108-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-chandra108/)
+[![GitHub](https://img.shields.io/badge/GitHub-Alok--Chandra108-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alok-Chandra108/)
+
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:3b82f6,100:f59e0b&height=80&section=footer&animation=fadeIn)
