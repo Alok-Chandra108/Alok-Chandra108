@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,30:3b82f6,70:22c55e,100:f59e0b&height=150&section=header&text=Alok%20Chandra&fontSize=42&fontColor=ffffff&fontAlignY=70&animation=twinkling&desc=Cloud%20Engineer%20%E2%80%A2%20Full-Stack%20Builder%20%E2%80%A2%20DevOps%20Tinkerer&descSize=16&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,30:3b82f6,70:22c55e,100:f59e0b&height=180&section=header&text=Alok%20Chandra&fontSize=38&fontColor=ffffff&fontAlignY=65&animation=twinkling&desc=Cloud%20Engineer%20%E2%80%A2%20Full-Stack%20Builder%20%E2%80%A2%20DevOps%20Tinkerer&descSize=14&descAlignY=48&descAlign=50)
 
 <br>
 
@@ -26,16 +26,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Alok-Chandra108&label=👀%20Profile%20Views&color=f59e0b&style=for-the-badge)](https://github.com/Alok-Chandra108)
 [![GitHub Followers](https://img.shields.io/github/followers/Alok-Chandra108?label=Follow&style=for-the-badge&color=3b82f6&logo=github)](https://github.com/Alok-Chandra108)
 [![Stars](https://img.shields.io/github/stars/Alok-Chandra108?label=Total%20Stars&style=for-the-badge&color=22c55e&logo=starship)](https://github.com/Alok-Chandra108)
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Alok-Chandra108&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title=-Reviews,-Followers)](https://github.com/Alok-Chandra108)
 
 </div>
 
@@ -174,11 +164,6 @@
 > *"Ship often. Automate early. Build things that scale."*
 
 **Open to cloud, DevOps & full-stack roles · Always building**
-
-<br>
-
-<!-- Spotify will auto-update if you connect -->
-[![Spotify](https://novatorem-eta-eight.vercel.app/api/spotify?background_color=0d1117&border_color=30363d)](https://open.spotify.com/user/)
 
 </div>
 
