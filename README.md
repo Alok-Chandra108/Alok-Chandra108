@@ -71,7 +71,7 @@ $ ./alok --describe  →  Cloud engineer · Full-stack builder · DevOps tinkere
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alok-Chandra108&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f59e0b&icon_color=3b82f6&text_color=94a3b8" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alok-Chandra108&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f59e0b&icon_color=3b82f6&text_color=94a3b8" />
 <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alok-Chandra108&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f59e0b&text_color=94a3b8" />
 
 </div>
