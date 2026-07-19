@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,30:3b82f6,70:22c55e,100:f59e0b&height=180&descSize=14&descAlignY=48&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,30:3b82f6,70:22c55e,100:f59e0b&height=220&text=Alok%20Chandra&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Cloud%20·%20DevOps%20·%20Full-Stack&descSize=18&descAlignY=55&descAlign=50&animation=fadeIn)
 
 <br>
 
@@ -12,28 +12,28 @@
 
 ---
 
-## 📊 Performance Metrics
+## <img src="https://img.icons8.com/fluency/48/bar-chart.png" width="28" align="top" alt=""/> Performance Metrics
 
 <div align="center">
 
 | Metric | Stats |
 |:------:|:-----:|
-| **📈 GitHub Stats** | [![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Alok-Chandra108&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f59e0b&icon_color=3b82f6&text_color=94a3b8&border_radius=10&rank_icon=percentile)](https://github.com/Alok-Chandra108) |
-| **💻 Top Languages** | [![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alok-Chandra108&layout=pie&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f59e0b&text_color=94a3b8&border_radius=10&langs_count=8&exclude_repo=Alok-Chandra108)](https://github.com/Alok-Chandra108) |
-| **🔥 Streak** | [![Streak](https://streak-stats.demolab.com?user=Alok-Chandra108&theme=github-dark-blue&hide_border=true&background=0d1117&ring=f59e0b&fire=3b82f6&currStreakLabel=22c55e&sideNums=94a3b8&sideLabels=64748b&dates=475569)](https://github.com/Alok-Chandra108) |
-| **📊 Summary** | [![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alok-Chandra108&theme=github_dark)](https://github.com/Alok-Chandra108) |
+| <img src="https://img.icons8.com/fluency/48/graph.png" width="20" align="top" alt=""/> **GitHub Stats** | [![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Alok-Chandra108&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f59e0b&icon_color=3b82f6&text_color=94a3b8&border_radius=10&rank_icon=percentile)](https://github.com/Alok-Chandra108) |
+| <img src="https://img.icons8.com/fluency/48/source-code.png" width="20" align="top" alt=""/> **Top Languages** | [![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alok-Chandra108&layout=pie&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f59e0b&text_color=94a3b8&border_radius=10&langs_count=8&exclude_repo=Alok-Chandra108)](https://github.com/Alok-Chandra108) |
+| <img src="https://img.icons8.com/fluency/48/fire-element.png" width="20" align="top" alt=""/> **Streak** | [![Streak](https://streak-stats.demolab.com?user=Alok-Chandra108&theme=github-dark-blue&hide_border=true&background=0d1117&ring=f59e0b&fire=3b82f6&currStreakLabel=22c55e&sideNums=94a3b8&sideLabels=64748b&dates=475569)](https://github.com/Alok-Chandra108) |
+| <img src="https://img.icons8.com/fluency/48/dashboard-layout.png" width="20" align="top" alt=""/> **Summary** | [![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alok-Chandra108&theme=github_dark)](https://github.com/Alok-Chandra108) |
 
 </div>
 
 <br>
 
 <details>
-<summary>📈 Click to see more GitHub analytics</summary>
+<summary><img src="https://img.icons8.com/fluency/48/graph.png" width="18" align="top" alt=""/> Click to see more GitHub analytics</summary>
 <br>
 
 <div align="center">
 
-### 📉 Contribution Graph
+### <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="22" align="top" alt=""/> Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alok-Chandra108&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph&color=22c55e&line=3b82f6&point=f59e0b&area_color=22c55e)](https://github.com/Alok-Chandra108)
 
@@ -41,7 +41,7 @@
 
 <br>
 
-### 🐍 Contribution Snake
+### <img src="https://img.icons8.com/fluency/48/snake.png" width="22" align="top" alt=""/> Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alok-Chandra108/Alok-Chandra108/output/github-contribution-grid-snake-dark.svg">
@@ -53,11 +53,11 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## <img src="https://img.icons8.com/fluency/48/maintenance.png" width="28" align="top" alt=""/> Tech Stack & Tools
 
 <div align="center">
 
-### ☁️ Cloud & Infrastructure
+### <img src="https://img.icons8.com/fluency/48/cloud.png" width="24" align="top" alt=""/> Cloud & Infrastructure
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=black)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black)
@@ -68,7 +68,7 @@
 ![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white)
 ![VPC](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonvpc&logoColor=black)
 
-### ⚙️ DevOps & Automation
+### <img src="https://img.icons8.com/fluency/48/settings.png" width="24" align="top" alt=""/> DevOps & Automation
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -78,7 +78,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
-### 🌐 Full-Stack Development
+### <img src="https://img.icons8.com/fluency/48/internet.png" width="24" align="top" alt=""/> Full-Stack Development
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -95,34 +95,34 @@
 
 ---
 
-## 🧠 What Drives Me
+## <img src="https://img.icons8.com/fluency/48/brain.png" width="28" align="top" alt=""/> What Drives Me
 
 <div align="center">
 
 <table>
 <tr>
   <td align="center" width="96">
-    <br>☁️<br><br>
+    <br><img src="https://img.icons8.com/fluency/48/cloud.png" width="48" alt="Cloud"/><br><br>
     <b>Cloud Infra</b>
   </td>
   <td align="center" width="96">
-    <br>📊<br><br>
+    <br><img src="https://img.icons8.com/fluency/48/combo-chart.png" width="48" alt="Data"/><br><br>
     <b>Data Engineering</b>
   </td>
   <td align="center" width="96">
-    <br>📦<br><br>
+    <br><img src="https://img.icons8.com/fluency/48/docker.png" width="48" alt="Containers"/><br><br>
     <b>Containerization</b>
   </td>
   <td align="center" width="96">
-    <br>🔄<br><br>
+    <br><img src="https://img.icons8.com/fluency/48/cloud-sync.png" width="48" alt="CI/CD"/><br><br>
     <b>CI/CD Automation</b>
   </td>
   <td align="center" width="96">
-    <br>🌐<br><br>
+    <br><img src="https://img.icons8.com/fluency/48/lightning-bolt.png" width="48" alt="Serverless"/><br><br>
     <b>Serverless & Edge</b>
   </td>
   <td align="center" width="96">
-    <br>🎮<br><br>
+    <br><img src="https://img.icons8.com/fluency/48/controller.png" width="48" alt="Games"/><br><br>
     <b>Games & Anime</b>
   </td>
 </tr>
@@ -132,7 +132,7 @@
 
 ---
 
-## 🤝 Let's Connect
+## <img src="https://img.icons8.com/fluency/48/handshake.png" width="28" align="top" alt=""/> Let's Connect
 
 <div align="center">
 
@@ -154,6 +154,6 @@
 
 <div align="center">
   
-<sub>⚡ Auto-generated with ❤️ | Last refreshed: 2026-07-18</sub>
+<!-- <sub>⚡ Auto-generated with ❤️ | Last refreshed: 2026-07-18</sub> -->
   
 </div>
